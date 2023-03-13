@@ -25,6 +25,8 @@ I'm an experienced and versatile software developer with a passion for designing
 ![Mongo DB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennis-kamau&layout=compact)](https://github.com/dennis-kamau/github-readme-stats)
+
 ## My Recent Projects 🚀
 
 - [E-commerce App](https://github.com/dennis-kamau/EcommerceApp.git): An e-commerce mobile application, built with React Native, that enables users to view products, purchase and follow up on their orders.
