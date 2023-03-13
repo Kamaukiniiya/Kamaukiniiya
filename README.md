@@ -1,6 +1,10 @@
-# Hi, I'm Dennis Kamau 👋
+<!-- # Hi, I'm Dennis Kamau 👋 -->
 
-I'm an experienced and versatile software developer with a passion for designing, building, and deploying complex web and mobile applications. I have expertise in JavaScript, TypeScript, Node.js, React, and React Native, and I'm committed to staying up-to-date with the latest industry trends and technologies to ensure that my clients receive the best possible solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+Welcome+To+My+Profile+👋!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
+I am Dennis Kamau. I'm an experienced and versatile software developer with a passion for designing, building, and deploying complex web and mobile applications. I have expertise in JavaScript, TypeScript, Node.js, React, and React Native, and I'm committed to staying up-to-date with the latest industry trends and technologies to ensure that my clients receive the best possible solutions.
 
 ## My Technical Skills 💻
 
