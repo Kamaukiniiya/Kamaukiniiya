@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Dennis+Kamau+👋;Welcome+To+My+World+Of+Code+And+Creativity!;Let's+Connect+And+Build+Stuff!+👨‍💻&font=Fira%20Code&center=true&width=520&height=30&duration=4000&pause=1000" />
 </h1>
 
-I'm an experienced and versatile software developer with a passion for designing, building, and deploying complex web and mobile applications. I have expertise in JavaScript, TypeScript, Node.js, React, and React Native, and I'm committed to staying up-to-date with the latest industry trends and technologies to ensure that my clients receive the best possible solutions.
+I'm an experienced and versatile software developer with a passion for designing, building, and deploying complex web and mobile applications. I have expertise in JavaScript, TypeScript, Node.js, React, and React Native, and I'm committed to staying up-to-date with the latest industry trends and technologies to ensure that I deliver the best possible solutions.
 
 ## My Technical Skills 💻
 
