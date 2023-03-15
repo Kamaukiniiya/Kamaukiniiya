@@ -1,6 +1,6 @@
 <h1>
   <p>
-    <img alt="Hi, I'm Dennis Kamau 👋" src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Dennis+Kamau+👋;Welcome+To+My+World+Of+Code+And+Creativity!;Let's+Connect+And+Build+Stuff!+👨‍💻&font=Fira%20Code&center=true&width=520&height=30&duration=4000&pause=1000">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Dennis+Kamau+👋;Welcome+To+My+World+Of+Code+And+Creativity!;Let's+Connect+And+Build+Stuff!+👨‍💻&font=Fira%20Code&center=true&width=520&height=30&duration=4000&pause=1000">
   </p>
 </h1>
 
@@ -8,21 +8,13 @@ I'm an experienced and versatile software developer with a passion for designing
 
 ## My Technical Skills 💻
 
-<div style="display: flex; width: 100%; margin: 10px 0px; flex-wrap: wrap-reverse">
-
-<div style="flex: 1; min-width: 250px; margin-right: 10px">
+<img align="right" alt="coding" src="https://cdn-images-1.medium.com/max/600/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" width="350" style="margin: 10px;" />
 
 - **Languages:** JavaScript, TypeScript, Python, HTML, CSS
 - **Frameworks and Libraries:** Node.js, Express.js, React, React Native, Flutter, Redux
 - **Databases:** MongoDB, MySQL, PostgreSQL, Firebase
 - **Cloud Platforms:** AWS, Google Cloud, Digital Ocean, Heroku
 - **Design Tools:** Figma, Adobe XD
-
-</div>
-
-  <img alt="coding" src="https://cdn-images-1.medium.com/max/600/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" width="345" style="margin-bottom: 10px; border-radius: 10px 10px 10px 10px;" />
-
-</div>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
