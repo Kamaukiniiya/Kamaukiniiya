@@ -1,5 +1,5 @@
-<h1>
-  <p>
+<h1 style="padding-bottom: 0px !important">
+  <p style="margin-bottom: 5px !important">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Dennis+Kamau+👋;Welcome+To+My+World+Of+Code+And+Creativity!;Let's+Connect+And+Build+Stuff!+👨‍💻&font=Fira%20Code&center=true&width=520&height=30&duration=4000&pause=1000">
   </p>
 </h1>
