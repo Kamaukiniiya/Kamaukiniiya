@@ -1,17 +1,17 @@
 <h1>
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Dennis+Kamau+👋;Welcome+To+My+World+Of+Code+And+Creativity!;Let's+Connect+And+Build+Stuff!+👨‍💻&font=Fira%20Code&center=true&width=520&height=30&duration=4000&pause=1000" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Denis+Kamau+👋;Welcome+To+My+World+Of+Code+And+Creativity!;Let's+Connect+And+Build+Stuff!+👨‍💻&font=Fira%20Code&center=true&width=520&height=30&duration=4000&pause=1000" />
 </h1>
 
-I'm an experienced and versatile software developer with a passion for designing, building, and deploying complex web and mobile applications. I have expertise in JavaScript, TypeScript, Node.js, React, and React Native, and I'm committed to staying up-to-date with the latest industry trends and technologies to ensure that I deliver the best possible solutions.
+I develop technical solutions focused on real-world impact and enhancing everyday life. I’m passionate about making tech accessible, user-friendly, and genuinely useful.
 
 ## My Technical Skills 💻
 
 <img align="right" alt="coding" src="https://cdn-images-1.medium.com/max/600/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" width="350" style="margin: 10px;" />
 
 - **Languages:** JavaScript, TypeScript, Python, HTML, CSS
-- **Frameworks and Libraries:** Node.js, Express.js, React, React Native, Flutter, Redux
+- **Frameworks and Libraries:** Node.js, Express.js, React, React Native, Flutter, Redux, Firebase
 - **Databases:** MongoDB, MySQL, PostgreSQL, Firebase
-- **Cloud Platforms:** AWS, Google Cloud, Digital Ocean, Heroku
+- **Cloud Platforms:** AWS, Google Cloud, Digital Ocean, Heroku, Salesforce
 - **Design Tools:** Figma, Adobe XD
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -32,11 +32,11 @@ I'm an experienced and versatile software developer with a passion for designing
 ## My Recent Projects 🚀
 
 - [E-commerce App](https://github.com/dennis-kamau/EcommerceApp.git): An e-commerce mobile application, built with React Native, that enables users to view products, purchase and follow up on their orders.
-- [Goal Tracking App](https://github.com/dennis-kamau/GoalTrackingApp.git): A mobile application ,built with React Native, that enables users to log their goals and track their progress.
+- [Goal Tracking App](https://github.com/dennis-kamau/GoalTrackingApp.git): A mobile application, built with React Native, that enables users to log their goals and track their progress.
 
 ## My Work Philosophy 🤝
 
-As a software developer, I believe in delivering high-quality code that is clean, efficient, and maintainable. I'm a strong communicator and enjoy collaborating with clients and stakeholders to understand their unique needs and requirements. I'm passionate about software development and love to explore new technologies and techniques to find innovative solutions to complex problems. I believe in writing code that is easy to read, understand, and maintain, and I'm committed to continuous improvement and learning.
+As a software developer, I deliver high-quality code that is clean, efficient, and maintainable. I'm a strong communicator and enjoy collaborating with clients and stakeholders to understand their unique needs and requirements. I'm passionate about software development and love exploring new technologies and techniques to solve complex problems. I write code that is easy to read, understand, and maintain, and I'm committed to continuous improvement and learning.
 
 ## Let's Connect 📞
 
